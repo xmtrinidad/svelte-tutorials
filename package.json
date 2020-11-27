@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "rollup-plugin-css-only": "^3.0.0"
+  }
+}
